@@ -35,7 +35,7 @@ footer {
 }
 
 .bordered {
-    border-image:  url(/./img/border.png) 40% round;
+    border-image:  url(/../img/border.png) 40% round;
     border-width:  28px;
     border-style:  solid;
 }

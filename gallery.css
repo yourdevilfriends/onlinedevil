@@ -9,6 +9,7 @@ body {
 h2 {
     background-color: #faf0e6;
     padding: 5px;
+    display: block;
 }
 
 a {
@@ -28,7 +29,7 @@ img {
     max-height: 100%;
 }
 
-main {
+article {
     display: flex;
     display: -ms-flexbox;
     flex-wrap: wrap;
